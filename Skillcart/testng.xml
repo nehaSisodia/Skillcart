@@ -1,0 +1,9 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="TestRunner">
+    
+    <classes>
+      <class name="com.ecommerce.testscript.TC004"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
